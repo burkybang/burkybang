@@ -1,7 +1,6 @@
 ### Github
 
-![GitHub followers](https://img.shields.io/github/followers/burkybang?style=social)
-
+[![GitHub followers](https://img.shields.io/github/followers/burkybang?style=social)](https://github.com/burkybang?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/burkybang?style=social)
 
 ### Social
