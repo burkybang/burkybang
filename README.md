@@ -17,3 +17,4 @@
 
 [![My Google Chrome Extensions](https://github.com/burkybang/burkybang/raw/master/Images/chrome-web-store.png "My Google Chrome Extensions")](https://chrome.google.com/webstore/search/burkybang?_category=extensions)
 [![My Firefox Add-ons](https://github.com/burkybang/burkybang/raw/master/Images/firefox-add-ons.png "My Firefox Add-ons")](https://addons.mozilla.org/en-US/firefox/user/15053510/)
+[![My Edge Add-ons](https://github.com/burkybang/burkybang/raw/master/Images/microsoft-store.png "My Edge Add-ons")](https://microsoftedge.microsoft.com/addons/search?developer=burkybang)
